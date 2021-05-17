@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="year_tag">Years:</string>
+    <string name="year_low">15 Years</string>
+    <string name="year_med">30 Years</string>
+    <string name="year_high">40 Years</string>
+    <string name="escrow_hint">Enter Escrow</string>
+    <string name="apr_hint">Enter APR</string>
+    <string name="loan_hint">Enter Loan Amount</string>
+    <string name="footer_text">Mortgage Calculator - John Hackstadt - 2021</string>
+    <string name="title_text">Mortgage Calculator</string>
+    <string name="plus_btn">+</string>
+    <string name="minus_btn">-</string>
+    <string name="calc_btn">Calculate</string>
+    <string name="reset_btn">Reset</string>
+    <string name="low_year">15 Years</string>
+    <string name="med_year">30 Years</string>
+    <string name="high_year">40 Years</string>
+
+
+</resources>
